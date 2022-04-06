@@ -1,0 +1,16 @@
+#contenedor
+{
+    width: 52%;
+    margin: 50px auto;
+    padding: 55px;
+    border: solid 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titulo
+{
+  color: whitesmoke;
+  background-color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  text-align: center;
+  padding: 5%;
+}
